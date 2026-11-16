@@ -1,4 +1,3 @@
-<img width="1280" height="640" alt="03_imdb-sentiment" src="https://github.com/user-attachments/assets/0bfdc4c5-8384-4061-914c-749ae982d6c4" />
 # Pi | Clasificación de Sentimientos en Reseñas de IMDb mediante Procesamiento de Lenguaje Natural
 ## Descripción del Proyecto
 
