@@ -1,19 +1,4 @@
 # Pi | Clasificación de Sentimientos en Reseñas de IMDb mediante Procesamiento de Lenguaje Natural
-
-<p align="center">
-<img src="images/banner.png" width="100%">
-</p>
-
-<h3 align="center">
-🎬 Transformando opiniones en información accionable mediante Procesamiento de Lenguaje Natural
-</h3>
-
-<p align="center">
-NLP • Machine Learning • TF-IDF • Logistic Regression • spaCy • NLTK • BERT
-</p>
-
----
-
 ## Descripción del Proyecto
 
 **Film Junky Union** busca desarrollar un sistema capaz de detectar automáticamente reseñas negativas de películas. Para lograrlo, se utilizó un conjunto de datos de IMDb compuesto por miles de reseñas etiquetadas como positivas y negativas.
